@@ -1,6 +1,6 @@
 name: Bauble
 markdown: redcarpet
-pygments: true
-exclude: [venv, price]
+highlighter: pygments
+exclude: [venv, price, docs]
 gems:
 - jekyll-sitemap
