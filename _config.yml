@@ -1,6 +1,6 @@
 name: Bauble
 markdown: redcarpet
 highlighter: pygments
-exclude: [venv, price, docs]
+exclude: ['venv/', 'price/', 'docs/', 'bin/']
 gems:
 - jekyll-sitemap

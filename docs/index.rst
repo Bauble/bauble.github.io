@@ -6,10 +6,15 @@
 Welcome to Bauble's documentation!
 ==================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
+
+   getting_started
+   searching
+   new_records
+   reports
+   settings
+   api
 
 
 
@@ -19,4 +24,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
