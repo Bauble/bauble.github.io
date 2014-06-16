@@ -6,12 +6,14 @@
 Welcome to Bauble's documentation!
 ==================================
 
+.. warning:: **The documentation is a workin in progress**.
+
 .. toctree::
    :maxdepth: 2
 
    getting_started
    searching
-   new_records
+   edit_records
    reports
    settings
    api

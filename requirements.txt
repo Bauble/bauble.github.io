@@ -1,0 +1,6 @@
+sphinx
+sphinx_rtd_theme
+sphinxcontrib-httpdomain
+baker
+#-r https://raw.githubusercontent.com/Bauble/bauble.api/master/requirements.txt
+#-e git+git://github.com:Bauble/bauble.api.git#egg=bauble
