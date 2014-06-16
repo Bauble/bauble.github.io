@@ -1,7 +1,7 @@
 Creating and editing records
 ============================
 
-.. warning:: **The documentation is a workin in progress**.
+.. warning:: **The documentation is a work in progress**.
 
 Family
 ------

@@ -1,7 +1,7 @@
 Searching
 =========
 
-.. warning:: **The documentation is a workin in progress**.
+.. warning:: **The documentation is a work in progress**.
 
 Bauble enables you to search your plant records for generic terms or use more
 specific queries to find exactly what you're looking for.  Three types of
